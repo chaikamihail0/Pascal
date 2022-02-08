@@ -1,0 +1,7 @@
+Program my;
+Var a:integer; b:real;
+Begin
+writeln('напиши число');
+readln (a);
+write (a);
+End.
